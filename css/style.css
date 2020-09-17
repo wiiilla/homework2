@@ -1,8 +1,12 @@
 body {
     background-color: #000000;
+    font-family: 'Lucida Grande', sans-serif;
+    color: #FFFFFF;
 }
 
-p,h1,h2 {
+p,
+h1,
+h2 {
     font-family: 'Lucida Grande', sans-serif;
     color: #FFFFFF;
 }
@@ -36,20 +40,24 @@ div {
 
 #blue {
     background-color: #0000ff;
+    height: 150px;
 }
 
 #red {
     background-color: #ff0000;
+    height: 150px;
     text-align: right;
 }
 
 #yellow {
     background-color: #ffff00;
+    height: 150px;
     text-align: right;
 }
 
 #green {
     background-color: #008000;
+    height: 150px;
 }
 
 #yellow h2 {
@@ -61,7 +69,7 @@ div {
     color: black;
 }
 
-footer p{
+footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
