@@ -34,30 +34,26 @@ img {
 }
 
 div {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
 #blue {
     background-color: #0000ff;
-    height: 150px;
 }
 
 #red {
     background-color: #ff0000;
-    height: 150px;
     text-align: right;
 }
 
 #yellow {
     background-color: #ffff00;
-    height: 150px;
     text-align: right;
 }
 
 #green {
     background-color: #008000;
-    height: 150px;
 }
 
 #yellow h2 {
@@ -71,6 +67,5 @@ div {
 
 footer p {
     text-align: right;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 10px 0px;
 }
